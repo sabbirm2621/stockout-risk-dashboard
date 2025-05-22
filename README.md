@@ -1,10 +1,10 @@
-# 🧠 Stockout Risk Dashboard
+# Stockout Risk Dashboard
 
 This project analyzes inventory sales data to identify products at risk of stockouts. It includes a full pipeline from data cleaning to feature engineering and risk scoring — ideal for supply chain teams seeking better visibility into stockout patterns.
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 Synthetic inventory sales data simulating multiple products across stores:
 - Sales performance
@@ -15,7 +15,7 @@ Synthetic inventory sales data simulating multiple products across stores:
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 
 | File                                | Description                            |
 |-------------------------------------|----------------------------------------|
@@ -31,7 +31,7 @@ Synthetic inventory sales data simulating multiple products across stores:
 
 ---
 
-## 📊 Key Features Engineered
+## Key Features Engineered
 
 - **Days of Inventory Left**: Estimates how many days each product will last
 - **At-Risk Flag**: Binary flag if inventory < reorder point
@@ -39,7 +39,7 @@ Synthetic inventory sales data simulating multiple products across stores:
 
 ---
 
-## 💡 Insights Enabled
+## Insights Enabled
 
 - Detect vulnerable SKUs before stockouts occur
 - Visualize risk over time
@@ -47,7 +47,7 @@ Synthetic inventory sales data simulating multiple products across stores:
 
 ---
 
-## 🚀 Tools Used
+## Tools Used
 
 - Python
 - Pandas & NumPy
