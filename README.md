@@ -1,5 +1,6 @@
 # Stockout Risk Dashboard
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sabbirm2621/stockout-risk-dashboard/blob/main/01_data_cleaning.ipynb)
 This project analyzes inventory sales data to identify products at risk of stockouts. It includes a full pipeline from data cleaning to feature engineering and risk scoring — ideal for supply chain teams seeking better visibility into stockout patterns.
 
 ---
