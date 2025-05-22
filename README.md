@@ -56,7 +56,7 @@ Synthetic inventory sales data simulating multiple products across stores:
 
 ---
 
-## 👤 Author
+## Author
 
 Built by Sabbir Ahamed — data analyst with an interest in supply chain intelligence & operational optimization.
 
